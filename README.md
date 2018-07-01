@@ -1,0 +1,1 @@
+This quiz app tests basic mathematical ability. It consists of 5 questions. The APK file is available on Google Drive: https://drive.google.com/file/d/1Cm0oYcSn7l4VeinYBcEEErAXdcYIn-0M/view?usp=sharing
