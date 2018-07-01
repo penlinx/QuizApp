@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="qn_1">Which number should come next in the series</string>
+    <string name="qn_1_data">5, 7, 10, 14, 19, ?</string>
+    <string name="qn_2">If 9 people can do a piece of work in 3 days working 6 hours a day, how long will 2 people take to do the same work, working 9 hours a day?</string>
+    <string name="qn_4">23 + 17x + 3 = 13x + 46 + 3x</string>
+    <string name="qn_5">Drake is 27 years old. Sam is 21 years old. Drake was once 3x Jillian\'s age. How long ago was that?</string>
+    <string name="submit">Submit</string>
+</resources>
